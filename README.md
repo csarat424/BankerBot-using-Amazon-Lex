@@ -30,7 +30,21 @@ Creating the initial bot
   - Creating First Intent
     <img width="1437" alt="Image4" src="https://github.com/csarat424/BankerBot-using-Amazon-Lex/assets/22951307/f2093678-019f-4887-b145-3ccc7aec04c0">
     
-  - Scroll down to and open the Sample utterances panel and add the following utterences
+  - Scroll down and open the Sample utterances panel and add the following utterences as shown in the fig below
+    <img width="1439" alt="Image5" src="https://github.com/csarat424/BankerBot-using-Amazon-Lex/assets/22951307/f2b2fa4d-171d-4801-9044-699ab4c929aa">
+
+  - Scroll down to Closing reponses anf fill the following feilds as shown in the fig below
+    <img width="1435" alt="Image6" src="https://github.com/csarat424/BankerBot-using-Amazon-Lex/assets/22951307/a84beae0-9fdb-46d6-b839-58f0a1b53049">
+
+  - Then Save the intent
+
+  - Now Build the Bot and Test the bot as shown below
+    <img width="1436" alt="Image7" src="https://github.com/csarat424/BankerBot-using-Amazon-Lex/assets/22951307/7615c886-02b5-44ef-b4ba-937f34d9907f">
+
+  - 
+
+
+
 
 
 
